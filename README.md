@@ -2,11 +2,6 @@
 Overview
 This project aims to predict house prices using the California Housing Dataset from the Scikit-learn library. The primary focus is to explore data, perform data cleaning, and build a machine learning model to predict house prices based on various features such as median income, house age, and population density.
 
-Project Structure
-
-Copy code
-├── data/                   # Directory for dataset
-├── notebooks/              # Jupyter Notebooks for experimentation
 
 Dataset
 The dataset used for this project is California Housing Dataset which contains the following features:
